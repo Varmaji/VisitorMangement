@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWeb", "CoreWeb.csproj", "{50BDB363-2589-49E1-A9C1-92CCB7AC0CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive function", "..\Recursive function\Recursive function.csproj", "{5E04F14F-29A2-4FCF-B493-3E8C618334F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50BDB363-2589-49E1-A9C1-92CCB7AC0CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BDB363-2589-49E1-A9C1-92CCB7AC0CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BDB363-2589-49E1-A9C1-92CCB7AC0CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BDB363-2589-49E1-A9C1-92CCB7AC0CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E04F14F-29A2-4FCF-B493-3E8C618334F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E04F14F-29A2-4FCF-B493-3E8C618334F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E04F14F-29A2-4FCF-B493-3E8C618334F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E04F14F-29A2-4FCF-B493-3E8C618334F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F6A5CBF-A084-4B9B-9CE4-AF78A8F3EEE9}
+	EndGlobalSection
+EndGlobal
